@@ -1,1 +1,55 @@
+
+
+
+
 /* header */
+.header {
+  position: absolute;
+  left: 0px;
+  border: solid;
+  border-color: maroon;
+  height: 40px;
+  width: 100%;
+  background-color: maroon;
+  text-indent: 20px;
+  color: white;
+  text-decoration-line: overline;
+  text-decoration-color: black;
+  vertical-align: middle;
+}
+
+.URL {
+  text-align: right;
+  vertical-align: middle;
+  text-emphasis-color: white;
+}
+
+.body {
+  vertical-align: middle;
+  font-size: small;
+  border: solid;
+  border-color: white;
+  background-color: white;
+  margin: 20px;
+  width: 60%;
+}
+
+.footer {
+  vertical-align: bottom;
+  border: solid;
+  border-color: gray;
+  background-color: gray;
+  color: white;
+  font-size: smaller;
+  margin: 20px;
+}
+
+.bodyimage {
+  height: 300px;
+  width: 90%;
+  text-indent: 3.5%;
+}
+
+
+
+
